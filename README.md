@@ -1,14 +1,14 @@
 ## FiveM Remove AICops (Public)
 
-[APIversionImg]: https://img.shields.io/badge/CustomPack%20Staus-InTheWorks-orange
-[licenseImg]: https://img.shields.io/badge/Version-0.1-blue
+[APIversionImg]: https://img.shields.io/badge/Resource%20Staus-Stable-green
+
 
 [logo]: https://i.imgur.com/hSCzWvo.png
 <!-- The stuff above isn't visible in the readme -->
 
 ![logo]
 
- ![APIversionImg] ![licenseImg]
+ ![APIversionImg]
 
 # Information 
 
