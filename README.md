@@ -26,4 +26,5 @@ Pre-Configured for FiveM! Resource will remove all cop cars and IA around the Se
 ### Need Help?
 _Feel free to contact me on discord if you need any help_
 
-Discord Tag: BenSon#0001
+Discord Username: DEVBenSon 
+Discord Old Tag: BenSon#0001
